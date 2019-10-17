@@ -241,3 +241,7 @@ var logoAnimation = function() {
 }
 
 document.addEventListener('DOMContentLoaded', logoAnimation, false);
+
+function doSomething() {
+  location.replace('https://www.google.com');
+}
