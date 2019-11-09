@@ -76,3 +76,11 @@ body:not(.iOS) #lines * {
   color: #c3b3f5;
   background: white;
 }
+
+.para {
+  margin: 0 auto;
+  text-align: center;
+  text-transform: capitalize;
+  width: 500px;
+  margin-top: 35px;
+}
